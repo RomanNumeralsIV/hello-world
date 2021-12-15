@@ -1,2 +1,2 @@
 # hello-world
-testing for class
+testing for classes
